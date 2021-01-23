@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello darling~
+It's just a slideshow? Always has been.
 Use the left arrow to go back!
